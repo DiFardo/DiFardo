@@ -13,7 +13,7 @@
 - 🔧 Me encanta desarrollar soluciones completas: desde la interfaz de usuario hasta la lógica del servidor.
 - ✨ Apasionado por aprender y mejorar constantemente mis habilidades técnicas.
 - 🎩 Siempre buscando colaborar en proyectos significativos y desafiantes.
-- 🎓 Actualmente soy estudiante universitario del 8vo ciclo en Ingeniería de Software.
+- 🎓 Actualmente soy estudiante universitario del 8vo ciclo en Ingeniería de Sistemas.
 
 ---
 
@@ -43,7 +43,7 @@
 
 ### 🎓 Educación
 
-- Licenciado en Ingeniería de Software (en curso, 8vo ciclo).
+- Estudiante en Ingeniería de Software (en curso, 8vo ciclo).
 - Cursos especializados en desarrollo web, bases de datos y optimización de sistemas.
 
 ---
